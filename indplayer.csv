@@ -1,0 +1,1459 @@
+
+Unnamed: 0                   0
+Player         V Kohli (INDIA)
+Span                 2010-2019
+Mat                         75
+Inns                        70
+NO                          20
+Runs                      2633
+HS                         94*
+Ave                      52.66
+BF                        1907
+SR                      138.07
+100                          0
+50                          24
+0                            2
+4s                         247
+6s                          71
+Unnamed: 15                NaN
+Name: 0, dtype: object
+Unnamed: 0                     1
+Player         RG Sharma (INDIA)
+Span                   2007-2019
+Mat                          104
+Inns                          96
+NO                            14
+Runs                        2633
+HS                           118
+Ave                         32.1
+BF                          1905
+SR                        138.21
+100                            4
+50                            19
+0                              6
+4s                           234
+6s                           120
+Unnamed: 15                  NaN
+Name: 1, dtype: object
+Unnamed: 0                   19
+Player         MS Dhoni (INDIA)
+Span                  2006-2019
+Mat                          98
+Inns                         85
+NO                           42
+Runs                       1617
+HS                           56
+Ave                        37.6
+BF                         1282
+SR                       126.13
+100                           0
+50                            2
+0                             1
+4s                          116
+6s                           52
+Unnamed: 15                 NaN
+Name: 19, dtype: object
+Unnamed: 0                   22
+Player         SK Raina (INDIA)
+Span                  2006-2018
+Mat                          78
+Inns                         66
+NO                           11
+Runs                       1605
+HS                          101
+Ave                       29.18
+BF                         1190
+SR                       134.87
+100                           1
+50                            5
+0                             3
+4s                          145
+6s                           58
+Unnamed: 15                 NaN
+Name: 22, dtype: object
+Unnamed: 0                   27
+Player         S Dhawan (INDIA)
+Span                  2011-2019
+Mat                          58
+Inns                         57
+NO                            3
+Runs                       1504
+HS                           92
+Ave                       27.85
+BF                         1173
+SR                       128.21
+100                           0
+50                            9
+0                             1
+4s                          166
+6s                           46
+Unnamed: 15                 NaN
+Name: 27, dtype: object
+Unnamed: 0                       45
+Player         Yuvraj Singh (INDIA)
+Span                      2007-2017
+Mat                              58
+Inns                             51
+NO                                9
+Runs                           1177
+HS                              77*
+Ave                           28.02
+BF                              863
+SR                           136.38
+100                               0
+50                                8
+0                                 1
+4s                               77
+6s                               74
+Unnamed: 15                     NaN
+Name: 45, dtype: object
+Unnamed: 0                    1
+Player         KL Rahul (INDIA)
+Span                  2016-2019
+Mat                          34
+Inns                         31
+NO                            5
+Runs                       1138
+HS                         110*
+Ave                       43.76
+BF                          777
+SR                       146.46
+100                           2
+50                            8
+0                             1
+4s                          102
+6s                           50
+Unnamed: 15                 NaN
+Name: 51, dtype: object
+Unnamed: 0                    16
+Player         G Gambhir (INDIA)
+Span                   2007-2012
+Mat                           37
+Inns                          36
+NO                             2
+Runs                         932
+HS                            75
+Ave                        27.41
+BF                           783
+SR                        119.02
+100                            0
+50                             7
+0                              2
+4s                           109
+6s                            10
+Unnamed: 15                  NaN
+Name: 66, dtype: object
+Unnamed: 0                     8
+Player         MK Pandey (INDIA)
+Span                   2015-2019
+Mat                           32
+Inns                          27
+NO                            12
+Runs                         587
+HS                           79*
+Ave                        39.13
+BF                           478
+SR                         122.8
+100                            0
+50                             2
+0                              2
+4s                            40
+6s                            16
+Unnamed: 15                  NaN
+Name: 108, dtype: object
+Unnamed: 0                  12
+Player         RR Pant (INDIA)
+Span                 2017-2019
+Mat                         26
+Inns                        24
+NO                           4
+Runs                       409
+HS                         65*
+Ave                      20.45
+BF                         336
+SR                      121.72
+100                          0
+50                           2
+0                            3
+4s                          28
+6s                          18
+Unnamed: 15                NaN
+Name: 162, dtype: object
+Unnamed: 0                   25
+Player         V Sehwag (INDIA)
+Span                  2006-2012
+Mat                          19
+Inns                         18
+NO                            0
+Runs                        394
+HS                           68
+Ave                       21.88
+BF                          271
+SR                       145.38
+100                           0
+50                            2
+0                             1
+4s                           43
+6s                           16
+Unnamed: 15                 NaN
+Name: 175, dtype: object
+Unnamed: 0                    32
+Player         AM Rahane (INDIA)
+Span                   2011-2016
+Mat                           20
+Inns                          20
+NO                             2
+Runs                         375
+HS                            61
+Ave                        20.83
+BF                           331
+SR                        113.29
+100                            0
+50                             1
+0                              2
+4s                            32
+6s                             6
+Unnamed: 15                  NaN
+Name: 182, dtype: object
+Unnamed: 0                    24
+Player         HH Pandya (INDIA)
+Span                   2016-2019
+Mat                           40
+Inns                          25
+NO                             6
+Runs                         310
+HS                           33*
+Ave                        16.31
+BF                           210
+SR                        147.61
+100                            0
+50                             0
+0                              2
+4s                            18
+6s                            19
+Unnamed: 15                  NaN
+Name: 224, dtype: object
+Unnamed: 0                     17
+Player         RV Uthappa (INDIA)
+Span                    2007-2015
+Mat                            13
+Inns                           12
+NO                              2
+Runs                          249
+HS                             50
+Ave                          24.9
+BF                            211
+SR                          118.0
+100                             0
+50                              1
+0                               1
+4s                             26
+6s                              6
+Unnamed: 15                   NaN
+Name: 267, dtype: object
+Unnamed: 0                    33
+Player         YK Pathan (INDIA)
+Span                   2007-2012
+Mat                           22
+Inns                          18
+NO                             5
+Runs                         236
+HS                           37*
+Ave                        18.15
+BF                           161
+SR                        146.58
+100                            0
+50                             0
+0                              3
+4s                            11
+6s                            17
+Unnamed: 15                  NaN
+Name: 283, dtype: object
+Unnamed: 0                  47
+Player         SS Iyer (INDIA)
+Span                 2017-2019
+Mat                         14
+Inns                        13
+NO                           3
+Runs                       226
+HS                          62
+Ave                       22.6
+BF                         178
+SR                      126.96
+100                          0
+50                           1
+0                            1
+4s                          18
+6s                           9
+Unnamed: 15                NaN
+Name: 297, dtype: object
+Unnamed: 0                    22
+Player         IK Pathan (INDIA)
+Span                   2006-2012
+Mat                           24
+Inns                          14
+NO                             7
+Runs                         172
+HS                           33*
+Ave                        24.57
+BF                           144
+SR                        119.44
+100                            0
+50                             0
+0                              0
+4s                             9
+6s                             7
+Unnamed: 15                  NaN
+Name: 372, dtype: object
+Unnamed: 0                  26
+Player         M Vijay (INDIA)
+Span                 2010-2015
+Mat                          9
+Inns                         9
+NO                           0
+Runs                       169
+HS                          48
+Ave                      18.77
+BF                         154
+SR                      109.74
+100                          0
+50                           0
+0                            1
+4s                          13
+6s                           8
+Unnamed: 15                NaN
+Name: 376, dtype: object
+Unnamed: 0                    32
+Player         RA Jadeja (INDIA)
+Span                   2009-2019
+Mat                           46
+Inns                          22
+NO                             8
+Runs                         163
+HS                            25
+Ave                        11.64
+BF                           165
+SR                         98.78
+100                            0
+50                             0
+0                              2
+4s                             7
+6s                             4
+Unnamed: 15                  NaN
+Name: 382, dtype: object
+Unnamed: 0                   13
+Player         R Ashwin (INDIA)
+Span                  2010-2017
+Mat                          46
+Inns                         11
+NO                            7
+Runs                        123
+HS                          31*
+Ave                       30.75
+BF                          115
+SR                       106.95
+100                           0
+50                            0
+0                             0
+4s                           14
+6s                            1
+Unnamed: 15                 NaN
+Name: 463, dtype: object
+Unnamed: 0                    17
+Player         KM Jadhav (INDIA)
+Span                   2015-2017
+Mat                            9
+Inns                           6
+NO                             0
+Runs                         122
+HS                            58
+Ave                        20.33
+BF                            99
+SR                        123.23
+100                            0
+50                             1
+0                              0
+4s                            12
+6s                             3
+Unnamed: 15                  NaN
+Name: 467, dtype: object
+Unnamed: 0                    22
+Player         KH Pandya (INDIA)
+Span                   2018-2019
+Mat                           18
+Inns                           9
+NO                             4
+Runs                         121
+HS                           26*
+Ave                         24.2
+BF                            92
+SR                        131.52
+100                            0
+50                             0
+0                              0
+4s                             8
+6s                             6
+Unnamed: 15                  NaN
+Name: 472, dtype: object
+Unnamed: 0                           8
+Player         Harbhajan Singh (INDIA)
+Span                         2006-2016
+Mat                                 28
+Inns                                13
+NO                                   5
+Runs                               108
+HS                                  21
+Ave                               13.5
+BF                                  87
+SR                              124.13
+100                                  0
+50                                   0
+0                                    1
+4s                                  11
+6s                                   4
+Unnamed: 15                        NaN
+Name: 508, dtype: object
+Unnamed: 0                    37
+Player         V Shankar (INDIA)
+Span                   2018-2019
+Mat                            9
+Inns                           4
+NO                             0
+Runs                         101
+HS                            43
+Ave                        25.25
+BF                            73
+SR                        138.35
+100                            0
+50                             0
+0                              0
+4s                            11
+6s                             5
+Unnamed: 15                  NaN
+Name: 537, dtype: object
+Unnamed: 0                        46
+Player         Mandeep Singh (INDIA)
+Span                       2016-2016
+Mat                                3
+Inns                               3
+NO                                 1
+Runs                              87
+HS                               52*
+Ave                            43.50
+BF                                73
+SR                            119.17
+100                                0
+50                                 1
+0                                  0
+4s                                11
+6s                                 1
+Unnamed: 15                      NaN
+Name: 596, dtype: object
+Unnamed: 0                   36
+Player         AR Patel (INDIA)
+Span                  2015-2018
+Mat                          11
+Inns                          7
+NO                            3
+Runs                         68
+HS                          20*
+Ave                        17.0
+BF                           54
+SR                       125.92
+100                           0
+50                            0
+0                             0
+4s                            3
+6s                            3
+Unnamed: 15                 NaN
+Name: 686, dtype: object
+Unnamed: 0                  6
+Player         S Dube (INDIA)
+Span                2019-2019
+Mat                         6
+Inns                        4
+NO                          2
+Runs                       64
+HS                         54
+Ave                     32.00
+BF                         42
+SR                     152.38
+100                         0
+50                          1
+0                           0
+4s                          3
+6s                          4
+Unnamed: 15               NaN
+Name: 706, dtype: object
+Unnamed: 0                      10
+Player         S Badrinath (INDIA)
+Span                     2011-2011
+Mat                              1
+Inns                             1
+NO                               0
+Runs                            43
+HS                              43
+Ave                          43.00
+BF                              37
+SR                          116.21
+100                              0
+50                               0
+0                                0
+4s                               5
+6s                               0
+Unnamed: 15                    NaN
+Name: 860, dtype: object
+Unnamed: 0                    23
+Player         AT Rayudu (INDIA)
+Span                   2014-2016
+Mat                            6
+Inns                           5
+NO                             1
+Runs                          42
+HS                            20
+Ave                        10.50
+BF                            50
+SR                          84.0
+100                            0
+50                             0
+0                              2
+4s                             5
+6s                             0
+Unnamed: 15                  NaN
+Name: 873, dtype: object
+Unnamed: 0                   15
+Player         D Mongia (INDIA)
+Span                  2006-2006
+Mat                           1
+Inns                          1
+NO                            0
+Runs                         38
+HS                           38
+Ave                        38.0
+BF                           45
+SR                        84.44
+100                           0
+50                            0
+0                             0
+4s                            4
+6s                            1
+Unnamed: 15                 NaN
+Name: 915, dtype: object
+Unnamed: 0                   39
+Player         PA Patel (INDIA)
+Span                  2011-2011
+Mat                           2
+Inns                          2
+NO                            0
+Runs                         36
+HS                           26
+Ave                        18.0
+BF                           32
+SR                        112.5
+100                           0
+50                            0
+0                             0
+4s                            4
+6s                            1
+Unnamed: 15                 NaN
+Name: 939, dtype: object
+Unnamed: 0                    42
+Player         STR Binny (INDIA)
+Span                   2015-2016
+Mat                            3
+Inns                           2
+NO                             0
+Runs                          35
+HS                            24
+Ave                         17.5
+BF                            29
+SR                        120.68
+100                            0
+50                             0
+0                              0
+4s                             2
+6s                             1
+Unnamed: 15                  NaN
+Name: 942, dtype: object
+Unnamed: 0                   41
+Player         R Dravid (INDIA)
+Span                  2011-2011
+Mat                           1
+Inns                          1
+NO                            0
+Runs                         31
+HS                           31
+Ave                       31.00
+BF                           21
+SR                       147.61
+100                           0
+50                            0
+0                             0
+4s                            0
+6s                            3
+Unnamed: 15                 NaN
+Name: 991, dtype: object
+Unnamed: 0                  18
+Player         A Nehra (INDIA)
+Span                 2009-2017
+Mat                         27
+Inns                         5
+NO                           0
+Runs                        28
+HS                          22
+Ave                       5.60
+BF                          39
+SR                       71.79
+100                          0
+50                           0
+0                            3
+4s                           1
+6s                           2
+Unnamed: 15                NaN
+Name: 1018, dtype: object
+Unnamed: 0                             0
+Player         Washington Sundar (INDIA)
+Span                           2017-2019
+Mat                                   18
+Inns                                   5
+NO                                     3
+Runs                                  26
+HS                                   14*
+Ave                                13.00
+BF                                    12
+SR                                216.66
+100                                    0
+50                                     0
+0                                      1
+4s                                     1
+6s                                     3
+Unnamed: 15                          NaN
+Name: 1050, dtype: object
+Unnamed: 0                  46
+Player         B Kumar (INDIA)
+Span                 2012-2019
+Mat                         43
+Inns                         9
+NO                           5
+Runs                        23
+HS                           9
+Ave                       5.75
+BF                          29
+SR                       79.31
+100                          0
+50                           0
+0                            1
+4s                           0
+6s                           0
+Unnamed: 15                NaN
+Name: 1096, dtype: object
+Unnamed: 0                   11
+Player         AB Dinda (INDIA)
+Span                  2009-2012
+Mat                           9
+Inns                          2
+NO                            1
+Runs                         22
+HS                           19
+Ave                       22.00
+BF                           24
+SR                        91.66
+100                           0
+50                            0
+0                             0
+4s                            1
+6s                            0
+Unnamed: 15                 NaN
+Name: 1111, dtype: object
+Unnamed: 0                        42
+Player         Kuldeep Yadav (INDIA)
+Span                       2017-2019
+Mat                               19
+Inns                               2
+NO                                 1
+Runs                              20
+HS                                16
+Ave                            20.00
+BF                                20
+SR                             100.0
+100                                0
+50                                 0
+0                                  0
+4s                                 2
+6s                                 0
+Unnamed: 15                      NaN
+Name: 1142, dtype: object
+Unnamed: 0                      47
+Player         S Sreesanth (INDIA)
+Span                     2006-2008
+Mat                             10
+Inns                             3
+NO                               2
+Runs                            20
+HS                             19*
+Ave                          20.00
+BF                              14
+SR                          142.85
+100                              0
+50                               0
+0                                1
+4s                               4
+6s                               0
+Unnamed: 15                    NaN
+Name: 1147, dtype: object
+Unnamed: 0                    19
+Player         SV Samson (INDIA)
+Span                   2015-2015
+Mat                            1
+Inns                           1
+NO                             0
+Runs                          19
+HS                            19
+Ave                        19.00
+BF                            24
+SR                         79.16
+100                            0
+50                             0
+0                              0
+4s                             1
+6s                             0
+Unnamed: 15                  NaN
+Name: 1169, dtype: object
+Unnamed: 0                     35
+Player         AB Agarkar (INDIA)
+Span                    2006-2007
+Mat                             4
+Inns                            2
+NO                              0
+Runs                           15
+HS                             14
+Ave                          7.50
+BF                             11
+SR                         136.36
+100                             0
+50                              0
+0                               0
+4s                              2
+6s                              0
+Unnamed: 15                   NaN
+Name: 1235, dtype: object
+Unnamed: 0                     4
+Player         MK Tiwary (INDIA)
+Span                   2011-2012
+Mat                            3
+Inns                           1
+NO                             0
+Runs                          15
+HS                            15
+Ave                        15.00
+BF                            17
+SR                         88.23
+100                            0
+50                             0
+0                              0
+4s                             0
+6s                             0
+Unnamed: 15                  NaN
+Name: 1254, dtype: object
+Unnamed: 0                 45
+Player         Z Khan (INDIA)
+Span                2006-2012
+Mat                        17
+Inns                        4
+NO                          2
+Runs                       13
+HS                          9
+Ave                      6.50
+BF                         10
+SR                      130.0
+100                         0
+50                          0
+0                           0
+4s                          0
+6s                          1
+Unnamed: 15               NaN
+Name: 1295, dtype: object
+Unnamed: 0                  19
+Player         NV Ojha (INDIA)
+Span                 2010-2010
+Mat                          2
+Inns                         2
+NO                           0
+Runs                        12
+HS                          10
+Ave                       6.00
+BF                          27
+SR                       44.44
+100                          0
+50                           0
+0                            0
+4s                           2
+6s                           0
+Unnamed: 15                NaN
+Name: 1319, dtype: object
+Unnamed: 0                  21
+Player         PP Ojha (INDIA)
+Span                 2009-2010
+Mat                          6
+Inns                         1
+NO                           1
+Runs                        10
+HS                         10*
+Ave                          -
+BF                           6
+SR                      166.66
+100                          0
+50                           0
+0                            0
+4s                           0
+6s                           1
+Unnamed: 15                NaN
+Name: 1371, dtype: object
+Unnamed: 0                       31
+Player         SR Tendulkar (INDIA)
+Span                      2006-2006
+Mat                               1
+Inns                              1
+NO                                0
+Runs                             10
+HS                               10
+Ave                           10.00
+BF                               12
+SR                            83.33
+100                               0
+50                                0
+0                                 0
+4s                                2
+6s                                0
+Unnamed: 15                     NaN
+Name: 1381, dtype: object
+Unnamed: 0                    22
+Player         JJ Bumrah (INDIA)
+Span                   2016-2019
+Mat                           42
+Inns                           6
+NO                             4
+Runs                           8
+HS                             7
+Ave                         4.00
+BF                            13
+SR                         61.53
+100                            0
+50                             0
+0                              1
+4s                             1
+6s                             0
+Unnamed: 15                  NaN
+Name: 1422, dtype: object
+Unnamed: 0                   42
+Player         I Sharma (INDIA)
+Span                  2008-2013
+Mat                          14
+Inns                          3
+NO                            2
+Runs                          8
+HS                           5*
+Ave                        8.00
+BF                            9
+SR                        88.88
+100                           0
+50                            0
+0                             1
+4s                            1
+6s                            0
+Unnamed: 15                 NaN
+Name: 1442, dtype: object
+Unnamed: 0                   8
+Player         P Kumar (INDIA)
+Span                 2008-2012
+Mat                         10
+Inns                         3
+NO                           0
+Runs                         7
+HS                           6
+Ave                       2.33
+BF                          16
+SR                       43.75
+100                          0
+50                           0
+0                            1
+4s                           0
+6s                           0
+Unnamed: 15                NaN
+Name: 1458, dtype: object
+Unnamed: 0                        33
+Player         Parvez Rasool (INDIA)
+Span                       2017-2017
+Mat                                1
+Inns                               1
+NO                                 0
+Runs                               5
+HS                                 5
+Ave                             5.00
+BF                                 6
+SR                             83.33
+100                                0
+50                                 0
+0                                  0
+4s                                 0
+6s                                 0
+Unnamed: 15                      NaN
+Name: 1533, dtype: object
+Unnamed: 0                     7
+Player         YS Chahal (INDIA)
+Span                   2016-2019
+Mat                           36
+Inns                           3
+NO                             2
+Runs                           4
+HS                            3*
+Ave                         4.00
+BF                             9
+SR                         44.44
+100                            0
+50                             0
+0                              0
+4s                             0
+6s                             0
+Unnamed: 15                  NaN
+Name: 1557, dtype: object
+Unnamed: 0                    20
+Player         MM Sharma (INDIA)
+Span                   2014-2015
+Mat                            8
+Inns                           2
+NO                             2
+Runs                           3
+HS                            3*
+Ave                            -
+BF                             7
+SR                         42.85
+100                            0
+50                             0
+0                              0
+4s                             0
+6s                             0
+Unnamed: 15                  NaN
+Name: 1620, dtype: object
+Unnamed: 0                   22
+Player         RP Singh (INDIA)
+Span                  2007-2009
+Mat                          10
+Inns                          2
+NO                            2
+Runs                          3
+HS                           2*
+Ave                           -
+BF                            3
+SR                        100.0
+100                           0
+50                            0
+0                             0
+4s                            0
+6s                            0
+Unnamed: 15                 NaN
+Name: 1622, dtype: object
+Unnamed: 0                        27
+Player         R Vinay Kumar (INDIA)
+Span                       2010-2013
+Mat                                9
+Inns                               1
+NO                                 1
+Runs                               2
+HS                                2*
+Ave                                -
+BF                                 4
+SR                              50.0
+100                                0
+50                                 0
+0                                  0
+4s                                 0
+6s                                 0
+Unnamed: 15                      NaN
+Name: 1677, dtype: object
+Unnamed: 0                   32
+Player         UT Yadav (INDIA)
+Span                  2012-2019
+Mat                           7
+Inns                          1
+NO                            0
+Runs                          2
+HS                            2
+Ave                        2.00
+BF                            4
+SR                         50.0
+100                           0
+50                            0
+0                             0
+4s                            0
+6s                            0
+Unnamed: 15                 NaN
+Name: 1682, dtype: object
+Unnamed: 0                   35
+Player         KK Ahmed (INDIA)
+Span                  2018-2019
+Mat                          14
+Inns                          1
+NO                            1
+Runs                          1
+HS                           1*
+Ave                           -
+BF                            1
+SR                        100.0
+100                           0
+50                            0
+0                             0
+4s                            0
+6s                            0
+Unnamed: 15                 NaN
+Name: 1685, dtype: object
+Unnamed: 0                    48
+Player         DL Chahar (INDIA)
+Span                   2018-2019
+Mat                           10
+Inns                           2
+NO                             2
+Runs                           1
+HS                            1*
+Ave                            -
+BF                             1
+SR                         100.0
+100                            0
+50                             0
+0                              0
+4s                             0
+6s                             0
+Unnamed: 15                  NaN
+Name: 1698, dtype: object
+Unnamed: 0                   49
+Player         R Dhawan (INDIA)
+Span                  2016-2016
+Mat                           1
+Inns                          1
+NO                            1
+Runs                          1
+HS                           1*
+Ave                           -
+BF                            2
+SR                         50.0
+100                           0
+50                            0
+0                             0
+4s                            0
+6s                            0
+Unnamed: 15                 NaN
+Name: 1699, dtype: object
+Unnamed: 0                      17
+Player         DS Kulkarni (INDIA)
+Span                     2016-2016
+Mat                              2
+Inns                             1
+NO                               1
+Runs                             1
+HS                              1*
+Ave                              -
+BF                               1
+SR                           100.0
+100                              0
+50                               0
+0                                0
+4s                               0
+6s                               0
+Unnamed: 15                    NaN
+Name: 1717, dtype: object
+Unnamed: 0                         42
+Player         Sandeep Sharma (INDIA)
+Span                        2015-2015
+Mat                                 2
+Inns                                1
+NO                                  1
+Runs                                1
+HS                                 1*
+Ave                                 -
+BF                                  1
+SR                              100.0
+100                                 0
+50                                  0
+0                                   0
+4s                                  0
+6s                                  0
+Unnamed: 15                       NaN
+Name: 1742, dtype: object
+Unnamed: 0                    28
+Player         PP Chawla (INDIA)
+Span                   2010-2012
+Mat                            7
+Inns                           1
+NO                             0
+Runs                           0
+HS                             0
+Ave                         0.00
+BF                             1
+SR                          0.00
+100                            0
+50                             0
+0                              1
+4s                             0
+6s                             0
+Unnamed: 15                  NaN
+Name: 1778, dtype: object
+Unnamed: 0                    8
+Player         A Mishra (INDIA)
+Span                  2010-2017
+Mat                          10
+Inns                          1
+NO                            0
+Runs                          0
+HS                            0
+Ave                        0.00
+BF                            0
+SR                            -
+100                           0
+50                            0
+0                             1
+4s                            0
+6s                            0
+Unnamed: 15                 NaN
+Name: 1808, dtype: object
+Unnamed: 0                   24
+Player         MM Patel (INDIA)
+Span                  2011-2011
+Mat                           3
+Inns                          1
+NO                            0
+Runs                          0
+HS                            0
+Ave                        0.00
+BF                            1
+SR                         0.00
+100                           0
+50                            0
+0                             1
+4s                            0
+6s                            0
+Unnamed: 15                 NaN
+Name: 1824, dtype: object
+Unnamed: 0                   31
+Player         NA Saini (INDIA)
+Span                  2019-2019
+Mat                           5
+Inns                          1
+NO                            1
+Runs                          0
+HS                           0*
+Ave                           -
+BF                            1
+SR                         0.00
+100                           0
+50                            0
+0                             0
+4s                            0
+6s                            0
+Unnamed: 15                 NaN
+Name: 1831, dtype: object
+Unnamed: 0                    11
+Player         S Aravind (INDIA)
+Span                   2015-2015
+Mat                            1
+Inns                           -
+NO                             -
+Runs                           -
+HS                             -
+Ave                            -
+BF                             -
+SR                             -
+100                            -
+50                             -
+0                              -
+4s                             -
+6s                             -
+Unnamed: 15                  NaN
+Name: 1861, dtype: object
+Unnamed: 0                  16
+Player         P Awana (INDIA)
+Span                 2012-2012
+Mat                          2
+Inns                         -
+NO                           -
+Runs                         -
+HS                           -
+Ave                          -
+BF                           -
+SR                           -
+100                          -
+50                           -
+0                            -
+4s                           -
+6s                           -
+Unnamed: 15                NaN
+Name: 1866, dtype: object
+Unnamed: 0                   18
+Player         L Balaji (INDIA)
+Span                  2012-2012
+Mat                           5
+Inns                          -
+NO                            -
+Runs                          -
+HS                            -
+Ave                           -
+BF                            -
+SR                            -
+100                           -
+50                            -
+0                             -
+4s                            -
+6s                            -
+Unnamed: 15                 NaN
+Name: 1868, dtype: object
+Unnamed: 0                    30
+Player         RD Chahar (INDIA)
+Span                   2019-2019
+Mat                            1
+Inns                           -
+NO                             -
+Runs                           -
+HS                             -
+Ave                            -
+BF                             -
+SR                             -
+100                            -
+50                             -
+0                              -
+4s                             -
+6s                             -
+Unnamed: 15                  NaN
+Name: 1880, dtype: object
+Unnamed: 0                          11
+Player         Joginder Sharma (INDIA)
+Span                         2007-2007
+Mat                                  4
+Inns                                 -
+NO                                   -
+Runs                                 -
+HS                                   -
+Ave                                  -
+BF                                   -
+SR                                   -
+100                                  -
+50                                   -
+0                                    -
+4s                                   -
+6s                                   -
+Unnamed: 15                        NaN
+Name: 1911, dtype: object
+Unnamed: 0                   15
+Player         M Kartik (INDIA)
+Span                  2007-2007
+Mat                           1
+Inns                          -
+NO                            -
+Runs                          -
+HS                            -
+Ave                           -
+BF                            -
+SR                            -
+100                           -
+50                            -
+0                             -
+4s                            -
+6s                            -
+Unnamed: 15                 NaN
+Name: 1915, dtype: object
+Unnamed: 0                 16
+Player         S Kaul (INDIA)
+Span                2018-2019
+Mat                         3
+Inns                        -
+NO                          -
+Runs                        -
+HS                          -
+Ave                         -
+BF                          -
+SR                          -
+100                         -
+50                          -
+0                           -
+4s                          -
+6s                          -
+Unnamed: 15               NaN
+Name: 1916, dtype: object
+Unnamed: 0                     25
+Player         M Markande (INDIA)
+Span                    2019-2019
+Mat                             1
+Inns                            -
+NO                              -
+Runs                            -
+HS                              -
+Ave                             -
+BF                              -
+SR                              -
+100                             -
+50                              -
+0                               -
+4s                              -
+6s                              -
+Unnamed: 15                   NaN
+Name: 1925, dtype: object
+Unnamed: 0                         33
+Player         Mohammed Shami (INDIA)
+Span                        2014-2019
+Mat                                 8
+Inns                                -
+NO                                  -
+Runs                                -
+HS                                  -
+Ave                                 -
+BF                                  -
+SR                                  -
+100                                 -
+50                                  -
+0                                   -
+4s                                  -
+6s                                  -
+Unnamed: 15                       NaN
+Name: 1933, dtype: object
+Unnamed: 0                         34
+Player         Mohammed Siraj (INDIA)
+Span                        2017-2018
+Mat                                 3
+Inns                                -
+NO                                  -
+Runs                                -
+HS                                  -
+Ave                                 -
+BF                                  -
+SR                                  -
+100                                 -
+50                                  -
+0                                   -
+4s                                  -
+6s                                  -
+Unnamed: 15                       NaN
+Name: 1934, dtype: object
+Unnamed: 0                 45
+Player         P Negi (INDIA)
+Span                2016-2016
+Mat                         1
+Inns                        -
+NO                          -
+Runs                        -
+HS                          -
+Ave                         -
+BF                          -
+SR                          -
+100                         -
+50                          -
+0                           -
+4s                          -
+6s                          -
+Unnamed: 15               NaN
+Name: 1945, dtype: object
+Unnamed: 0                    26
+Player         KV Sharma (INDIA)
+Span                   2014-2014
+Mat                            1
+Inns                           -
+NO                             -
+Runs                           -
+HS                             -
+Ave                            -
+BF                             -
+SR                             -
+100                            -
+50                             -
+0                              -
+4s                             -
+6s                             -
+Unnamed: 15                  NaN
+Name: 1976, dtype: object
+Unnamed: 0                   27
+Player         R Sharma (INDIA)
+Span                  2012-2012
+Mat                           2
+Inns                          -
+NO                            -
+Runs                          -
+HS                            -
+Ave                           -
+BF                            -
+SR                            -
+100                           -
+50                            -
+0                             -
+4s                            -
+6s                            -
+Unnamed: 15                 NaN
+Name: 1977, dtype: object
+Unnamed: 0                  31
+Player         BB Sran (INDIA)
+Span                 2016-2016
+Mat                          2
+Inns                         -
+NO                           -
+Runs                         -
+HS                           -
+Ave                          -
+BF                           -
+SR                           -
+100                          -
+50                           -
+0                            -
+4s                           -
+6s                           -
+Unnamed: 15                NaN
+Name: 1981, dtype: object
+Unnamed: 0                    36
+Player         SN Thakur (INDIA)
+Span                   2018-2018
+Mat                            7
+Inns                           -
+NO                             -
+Runs                           -
+HS                             -
+Ave                            -
+BF                             -
+SR                             -
+100                            -
+50                             -
+0                              -
+4s                             -
+6s                             -
+Unnamed: 15                  NaN
+Name: 1986, dtype: object
+Unnamed: 0                  42
+Player         S Tyagi (INDIA)
+Span                 2009-2009
+Mat                          1
+Inns                         -
+NO                           -
+Runs                         -
+HS                           -
+Ave                          -
+BF                           -
+SR                           -
+100                          -
+50                           -
+0                            -
+4s                           -
+6s                           -
+Unnamed: 15                NaN
+Name: 1992, dtype: object
+Unnamed: 0                     43
+Player         JD Unadkat (INDIA)
+Span                    2016-2018
+Mat                            10
+Inns                            -
+NO                              -
+Runs                            -
+HS                              -
+Ave                             -
+BF                              -
+SR                              -
+100                             -
+50                              -
+0                               -
+4s                              -
+6s                              -
+Unnamed: 15                   NaN
+Name: 1993, dtype: object
