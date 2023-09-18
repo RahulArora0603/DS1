@@ -22,5 +22,18 @@ for p in df1:
         i2 = (fl1 + fl2)/2
         pricelist.append(i2)
     elif r[0]=="$" and len(r)>8:
-        spl1 = p.split("-")[]    
+        spl1 = p.split("-")[0].split("$")[1].split(",")[0]
+        spl2 = p.split("-")[0].split("$")[1].split(",")[1]
+        num1 = spl1 + spl2
+        spl3 = p.split("-")[1].split("$")[1].split(",")[0]
+        spl4 = p.split("-")[1].split("$")[1].split(",")[1]
+        num2 = spl3 + spl4
+        m = int(num1)
+        n = int(num2)
+        i = (m+n)/2
+        #print(r)
+        p1 = int(i)
+        pricelist.append(p1)
+    
+                   
 
