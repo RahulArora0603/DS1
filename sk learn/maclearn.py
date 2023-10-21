@@ -1,39 +1,30 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.linear_model import LogisticRegression
-import matplotlib.pyplot as plt
-#Linear Regression (MULTIPLE VARIABLE)
-'''df = pd.read_csv('bmi.csv')
-df1 = df.drop('BmiClass', axis='columns')
-#print(df1)
-x = df1.drop('Bmi', axis='columns').values
-y = df1['Bmi'].values
-
-X_train , X_test , y_train , y_test = train_test_split(x, y , test_size=1/3 , random_state=0)
-
-regressor = LinearRegression()
-regressor.fit(x, y)
-y_pred = regressor.predict([[60,1.70,72]])
-#regressor.score(X_test, y_test)
-print(y_pred)
-print(regressor.coef_)'''
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
+#RandomForestClassifier
 df = pd.read_csv('./sk learn/HR_comma_sep.csv')
-'''SALARY AND LEFT GRAPH-
-pd.crosstab(df.salary,df.left).plot(kind='bar')
-plt.show()'''
 subdf = df[['promotion_last_5years','satisfaction_level','average_montly_hours','salary']]
+#Creating dummy columns for Salary(high , low , medium)
 salary_dummies = pd.get_dummies(df.salary, prefix="salary")
 df_with_dummies = pd.concat([subdf,salary_dummies],axis='columns')
 df_with_dummies.drop('salary', axis='columns', inplace=True)
 x = df_with_dummies.values
-#print(df_with_dummies.head())
-#print(x)
 y = df['left'].values
+#Splitting data into training and testing
 X_train , X_test , y_train , y_test = train_test_split(x, y , test_size=1/5 , random_state=0)
-regressor = LogisticRegression()
-regressor.fit(X_train ,y_train)
+#Using Standard Scaler to standardize the values
+scaler = StandardScaler()
+x_train_data = scaler.fit_transform(X_train)
+x_test_data = scaler.fit_transform(X_test)
 
+#Creating RandomForestClassifier object
+regressor = RandomForestClassifier()
+regressor.fit(x_train_data ,y_train)
+prediction = regressor.predict(x_test_data)
+#Random prediction
 pred = regressor.predict([[0 , 0.1 , 100, False, True , False]])
-#print(regressor.score(X_test, y_test))
-print(pred)
+print(prediction)
+#Accuracy of model
+print(regressor.score(x_test_data, y_test)) #Output - 0.931
+print(pred) #Output - [1]

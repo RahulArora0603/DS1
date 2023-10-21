@@ -1,48 +1,28 @@
 import pandas as pd
 #df = pd.read_csv('./Batting/t20.csv')
 #print(df.describe())
+import os
 import matplotlib.pyplot as plt
-def Line(abc):
-   plt.plot(abc)
-   plt.show()  
-
-def Bar(x,y):
-   plt.bar(x , y)
-   plt.show()
-
-def Graph(abc1, abc2):
-  number = int(input("Type 1 for Bar Graph , 2 for Line graph, 3 for break: \n"))
-  if number==1:
-     Bar(abc1,abc2)
-  if number==2:
-     Line(abc1)  
-
-def Data(name):
-  print(name)
-   
-
-while True:
-   df = pd.read_csv('./Batting/t20.csv')
-   print(df.head(0))
-
-   data1  = input("Enter heading 1: ")
-   data2  = input("Enter heading 2: ")
-   df0 = df.head(10)
-   df1 = df0[data1]
-   df2 = df0[data2]
-   num = int(input("enter 1 for graph\n 2 for data \n 3 for break\n"))
-
-   #df2 = list(df1)
-   
-
-   if num==1:
-      Graph(df1 , df2)
-   elif num==2:
-      Data(df1)
-   elif num==3:
-      break
-   else:
-      print("enter right input")      
-
-
+'''OS Library functions-
+data=os.listdir(os.getcwd())
+print(data)
+name =input("enter file name")
+df = pd.read_csv(os.getcwd()+"/"+name)
+print(df)
+'''
+import cv2
+'''#CV2 Images-
+image = cv2.imread('screenshot1.png')
+h, w = image.shape[:2]
+(B,G,R)= image[100, 100]
+#print(f"Red ={R}, Green={G},Blue={B}")
+cv2.imshow("Display window", image)
+k = cv2.waitKey(0)
+#Resizing -
+newimg = cv2.resize(image,(600,500))'''
+face_cap = cv2.CascadeClassifier("facefrontal.xml")
+#print(cv2.__file__)
+video_cap = cv2.VideoCapture(0)
+ret , video_data = video_cap.read()
+cv2.imshow()
 
