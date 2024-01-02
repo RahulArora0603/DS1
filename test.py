@@ -20,9 +20,8 @@ cv2.imshow("Display window", image)
 k = cv2.waitKey(0)
 #Resizing -
 newimg = cv2.resize(image,(600,500))'''
-face_cap = cv2.CascadeClassifier("facefrontal.xml")
 #print(cv2.__file__)
-video_cap = cv2.VideoCapture(0)
+'''video_cap = cv2.VideoCapture(0)
 ret , video_data = video_cap.read()
 cv2.imshow()
-
+'''
