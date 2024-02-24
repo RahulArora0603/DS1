@@ -28,6 +28,9 @@ from sklearn.metrics import confusion_matrix
 cm= confusion_matrix(y_test, y_pred)  
 print(cm)
 
+
+
+
 """ from sklearn.svm import SVC # "Support vector classifier"  
 classifier = SVC(kernel='linear', random_state=0)  
 classifier.fit(x_train, y_train)  """
