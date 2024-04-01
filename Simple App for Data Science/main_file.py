@@ -1,5 +1,5 @@
 import pandas as pd
-from test1 import *
+from functions_for_main import *
 import matplotlib.pyplot as plt
 #Takes CSV as input -
 csvname = input("Enter csv path: ")
