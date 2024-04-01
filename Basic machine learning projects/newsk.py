@@ -18,7 +18,6 @@ x_train= st_x.fit_transform(X_train)
 x_test= st_x.transform(X_test)
 classifier= LogisticRegression(random_state=0)  
 classifier.fit(x_train, y_train)
-LogisticRegression()
 '''C=1.0, class_weight=None, dual=False, fit_intercept=True,  
                    intercept_scaling=1, l1_ratio=None, max_iter=100,  
                    multi_class='warn', n_jobs=None, penalty='l2',  
